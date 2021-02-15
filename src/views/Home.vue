@@ -38,7 +38,7 @@ export default {
 .intro-img {
   width: 100%;
   max-height: 120vh;
-  margin-top: 30px;
+  margin-top: 70px;
 }
 /*.left-side-bar-wrapper {
   width: 90px;
