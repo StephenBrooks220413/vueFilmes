@@ -1,0 +1,4 @@
+font-family: 'Ballet', cursive;
+font-family: 'Comfortaa', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Righteous', cursive;
