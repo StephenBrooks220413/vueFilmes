@@ -17,8 +17,6 @@
     <br />
     <HelloWorld msg="Welcome to the Cinemas" />
     <br />
-    <div class="left-side-bar-wrapper"></div>
-    <div class="right-side-bar-wrapper"></div>
   </div>
 </template>
 
@@ -38,7 +36,7 @@ export default {
 .intro-img {
   width: 100%;
   max-height: 120vh;
-  margin-top: 70px;
+  margin-top: 60px;
 }
 /*.left-side-bar-wrapper {
   width: 90px;
